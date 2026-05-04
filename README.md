@@ -240,14 +240,14 @@ You can test all endpoints using:
 
 Backend Developer
 
-* LinkedIn:
-  [https://linkedin.com/in/yousef-hesham-416863319](https://linkedin.com/in/yousef-hesham-416863319)
+- GitHub:
+  https://github.com/YousefHDev
 
-* Email:
-  [adhamh430@gmail.com](mailto:adhamh430@gmail.com)
+- LinkedIn:
+  https://linkedin.com/in/yousef-hesham-416863319
 
-* Github :
-  https://github.com/YousefHDev 
+- Email:
+  adhamh430@gmail.com 
 
 ---
 
